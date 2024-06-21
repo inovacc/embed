@@ -14,9 +14,9 @@ go get github.com/inovacc/embed
 package main
 
 import (
-    "fmt"
-    efs "github.com/inovacc/embed"
-    "embed"
+	"embed"
+	"fmt"
+	efs "github.com/inovacc/embed"
 	"io"
 )
 
